@@ -1,4 +1,4 @@
-# Faultline ⚡
+# Faultline 
 
 > **See the failure before the failure.**
 
